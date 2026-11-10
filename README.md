@@ -16,3 +16,8 @@ Open the repository folder as the working directory in R or RStudio, then run:
 
 ```r
 source("analysis/01_endes_primary_analysis.R")
+```
+
+## Data source
+
+The processed datasets were derived from publicly available ENDES microdata for 2020–2024.
